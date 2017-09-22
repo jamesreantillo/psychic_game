@@ -1,1 +1,1 @@
-# psychic_game
+# hangman-game
