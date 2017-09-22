@@ -41,5 +41,6 @@ var alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l',
             
             document.getElementById("wins").innerHTML = "Wins: " + wins;
             document.getElementById("losses").innerHTML = "losses: " + losses;
-            document.getElementById("guesses").innerHTML = "Guesses left: " + guesses;   
+            document.getElementById("guesses").innerHTML = "Guesses left: " + guesses; 
+            document.getElementById("audio").loop = true;
         }  
